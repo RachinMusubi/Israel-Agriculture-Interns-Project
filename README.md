@@ -1,0 +1,1 @@
+These are the files related to my thesis written during my time as a Goldman Public Policy Analyst at Tel Aviv University. The first set is the raw data along with the accompanying .do file I used to clean it. The second set is the analysis I used for my thesis, including the code to generate the sets of OLS regressions.
